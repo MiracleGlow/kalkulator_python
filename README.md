@@ -16,7 +16,7 @@ Ini adalah project kalkulator sederhana menggunakan bahasa pemrograman python da
 
 ## Tech
 
-Kalkulator ini menggunakan teknologi open source.
+Kalkulator ini menggunakan :
 
 - Python, saya menggunakan bahasa pemrograman ini karena mudah dipahami
 - RegEx, Library bawaan python yang sederhana, (namun sedikit sulit di tulis)
@@ -24,11 +24,11 @@ Kalkulator ini menggunakan teknologi open source.
 
 ## Installation
 
-Text editor : [vscode](https://code.visualstudio.com/)
-Python 3.8.0 : [python](https://www.python.org/)
-CMD/Terminal
+- Text editor : [vscode](https://code.visualstudio.com/)
+- Python 3.8.0 : [python](https://www.python.org/)
+- CMD/Terminal
 
-Clone repository:
+- Clone repository:
 ![clone](https://github.com/MiracleGlow/asset/blob/master/icon/WhatsApp%20Image%202024-03-04%20at%2005.48.15.jpeg?raw=true)
 ```sh
 git clone https://github.com/MiracleGlow/kalkulator_python.git
