@@ -1,5 +1,5 @@
-# KALKULATOR TYPESCRIPT
-#### Menggunakan library RegEX
+# Kalkulator Sederhana
+#### Menggunakan Python dan library RegEX
 
 [![N|Solid](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)](https://nodesource.com/products/nsolid)
 
