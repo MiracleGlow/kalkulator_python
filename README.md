@@ -36,11 +36,11 @@ git clone https://github.com/MiracleGlow/kalkulator_python.git
 
 ## Run Code
 - buka folder hasil clone
-- bukan file start.ink
+- buka CMD
 - ketikan commadnd berikut :
 
 ```sh
-cd (direktori file)
+cd (direktori file hasil clone)
 ular\Scripts\activate
 python kalkulator.py
 ```
